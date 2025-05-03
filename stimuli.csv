@@ -1,0 +1,81 @@
+item,sentence,sscat,std,inc,group
+1,"C’est une pièce qui ne se fait plus.",sres,y,n,0
+1,"C’est une pièce qu’elle ne se fait plus.",sres,n,n,1
+1,"C’est une pièce qui malheureusement ne se fait plus.",sres,y,y,2
+1,"C’est une pièce que malheureusement elle ne se fait plus.",sres,n,y,3
+2,"C’est une discussion qui ne mène à rien.",sres,y,n,0
+2,"C’est une discussion qu’elle ne mène à rien.",sres,n,n,1
+2,"C’est une discussion qui de toute façon ne mène à rien.",sres,y,y,2
+2,"C’est une discussion que de toute façon elle ne mène à rien.",sres,n,y,3
+3,"Ce sont des oranges qui ont du goût.",sres,y,n,0
+3,"Ce sont des oranges qu’elles ont du goût.",sres,n,n,1
+3,"Ce sont des oranges qui j’en suis sûr ont du goût.",sres,y,y,2
+3,"Ce sont des oranges que j’en suis sûr elles ont du goût.",sres,n,y,3
+4,"Il a acheté une nouvelle veste qui ne lui va pas.",sres,y,n,0
+4,"Il a acheté une nouvelle veste qu’elle ne lui va pas.",sres,n,n,1
+4,"Il a acheté une nouvelle veste qui de toute évidence ne lui va pas.",sres,y,y,2
+4,"Il a acheté une nouvelle veste que de toute évidence elle ne lui va pas.",sres,n,y,3
+5,"Il a suivi la route qui est la plus rapide.",sres,y,n,0
+5,"Il a suivi la route qu’elle est la plus rapide.",sres,n,n,1
+5,"Il a suivi la route qui d’après le GPS est la plus rapide.",sres,y,y,2
+5,"Il a suivi la route que d’après le GPS elle est la plus rapide.",sres,n,y,3
+6,"Voici ma sœur qui a déménagé sur Paris.",sres,y,n,0
+6,"Voici ma sœur qu’elle a déménagé sur Paris.",sres,n,n,1
+6,"Voici ma sœur qui depuis plus de vingt ans a déménagé sur Paris.",sres,y,y,2
+6,"Voici ma sœur que depuis plus de vingt ans elle a déménagé sur Paris.",sres,n,y,3
+7,"Voici une amie qui part avec nous.",sres,y,n,0
+7,"Voici une amie qu’elle part avec nous.",sres,n,n,1
+7,"Voici une amie qui si la voiture est assez grande part avec nous.",sres,y,y,2
+7,"Voici une amie que si la voiture est assez grande elle part avec nous.",sres,n,y,3
+8,"Voilà la maison qui servira pour le tournage.",sres,y,n,0
+8,"Voilà la maison qu’elle servira pour le tournage.",sres,n,n,1
+8,"Voilà la maison qui malgré sa petite taille servira pour le tournage.",sres,y,y,2
+8,"Voilà la maison que malgré sa petite taille elle servira pour le tournage.",sres,n,y,3
+9,"Le voisin a une nouvelle moto qui fait beaucoup trop de bruit.",sres,y,n,0
+9,"Le voisin a une nouvelle moto qu’elle fait beaucoup trop de bruit.",sres,n,n,1
+9,"Le voisin a une nouvelle moto qui selon moi fait beaucoup trop de bruit.",sres,y,y,2
+9,"Le voisin a une nouvelle moto que selon moi elle fait beaucoup trop de bruit.",sres,n,y,3
+10,"Le président a pris des mesures qui devraient changer les choses.",sres,y,n,0
+10,"Le président a pris des mesures qu’elles devraient changer les choses.",sres,n,n,1
+10,"Le président a pris des mesures qui pour la plupart devraient changer les choses.",sres,y,y,2
+10,"Le président a pris des mesures que pour la plupart elles devraient changer les choses.",sres,n,y,3
+11,"Voilà une personne qui force le respect.",ares,y,n,0
+11,"Voilà une personne qu’elle force le respect.",ares,n,n,1
+11,"Voilà une personne qui quoiqu’on pense d’elle par ailleurs force le respect.",ares,y,y,2
+11,"Voilà une personne que quoi qu’on pense d’elle par ailleurs elle force le respect.",ares,n,y,3
+12,"C’est une décision qui a au moins le mérite d’être claire.",ares,y,n,0
+12,"C’est une décision qu’elle a au moins le mérite d’être claire.",ares,n,n,1
+12,"C’est une décision qui bien qu’elle soit injuste a au moins le mérite d’être claire.",ares,y,y,2
+12,"C’est une décision que bien qu’elle soit injuste elle a au moins le mérite d’être claire.",ares,n,y,3
+13,"Ce sont des chaussures qui coûtent extrêmement cher.",ares,y,n,0
+13,"Ce sont des chaussures qu’elles coûtent extrêmement cher.",ares,n,n,1
+13,"Ce sont des chaussures qui bien qu’elles soient en solde coûtent extrêmement cher.",ares,y,y,2
+13,"Ce sont des chaussures que bien qu’elles soient en solde elles coûtent extrêmement cher.",ares,n,y,3
+14,"Ce sont des questions qui sont vraiment fascinantes.",ares,y,n,0
+14,"Ce sont des questions qu’elles sont vraiment fascinantes.",ares,n,n,1
+14,"Ce sont des questions qui pour peu qu’on s’y intéresse sont vraiment fascinantes.",ares,y,y,2
+14,"Ce sont des questions que pour peu qu’on s’y intéresse elles sont vraiment fascinantes.",ares,n,y,3
+15,"J’ai une collègue au travail qui arrive toujours en retard.",ares,y,n,0
+15,"J’ai une collègue au travail qu’elle arrive toujours en retard.",ares,n,n,1
+15,"J’ai une collègue au travail qui même si elle habite juste à côté arrive toujours en retard.",ares,y,y,2
+15,"J’ai une collègue au travail que même si elle habite juste à côté elle arrive toujours en retard.",ares,n,y,3
+16,"J’ai pris une semaine de vacances qui me fera le plus grand bien.",ares,y,n,0
+16,"J’ai pris une semaine de vacances qu’elle me fera le plus grand bien.",ares,n,n,1
+16,"J’ai pris une semaine de vacances qui si elle n’est pas gâchée par la météo me fera le plus grand bien.",ares,y,y,2
+16,"J’ai pris une semaine de vacances que si elle n’est pas gâchée par la météo elle me fera le plus grand bien.",ares,n,y,3
+17,"Il a raconté une anecdote qui a fait son petit effet.",ares,y,n,0
+17,"Il a raconté une anecdote qu’elle a fait son petit effet.",ares,n,n,1
+17,"Il a raconté une anecdote qui comme elle était très drôle a fait son petit effet.",ares,y,y,2
+17,"Il a raconté une anecdote que comme elle était très drôle elle a fait son petit effet.",ares,n,y,3
+18,"Nous avons fait appel à une entreprise qui est digne de confiance.",ares,y,n,0
+18,"Nous avons fait appel à une entreprise qu’elle est digne de confiance.",ares,n,n,1
+18,"Nous avons fait appel à une entreprise qui si on en croit sa réputation est digne de confiance.",ares,y,y,2
+18,"Nous avons fait appel à une entreprise que si on en croit sa réputation elle est digne de confiance.",ares,n,y,3
+19,"Le voisin a une chienne qui n’arrête pas d’aboyer.",ares,y,n,0
+19,"Le voisin a une chienne qu’elle n’arrête pas d’aboyer.",ares,n,n,1
+19,"Le voisin a une chienne qui quand on s’en approche trop n’arrête pas d’aboyer.",ares,y,y,2
+19,"Le voisin a une chienne que quand on s’en approche trop elle n’arrête pas d’aboyer.",ares,n,y,3
+20,"Il y a des expressions qui sonnent faux.",ares,y,n,0
+20,"Il y a des expressions qu’elles sonnent faux.",ares,n,n,1
+20,"Il y a des expressions qui quand tu essaies de les employer sonnent faux.",ares,y,y,2
+20,"Il y a des expressions que quand tu essaies de les employer elles sonnent faux.",ares,n,y,3
