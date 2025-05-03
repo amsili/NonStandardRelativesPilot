@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-# fbfsr, fbfar, fmfns, fmfmf
 item,sentence,cat
 1,"Cet artisan a une bonne réputation.",fbfsr
 2,"Ces chaussures me semblent très confortables.",fbfsr
